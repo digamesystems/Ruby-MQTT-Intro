@@ -1,7 +1,9 @@
 # Ruby-MQTT-Intro
 
 The files in this project are support for a little introductory MQTT video found here: 
-  https://youtu.be/Xu5ewiPhCac
+
+[Introduction to MQTT using the Eclipse Paho Project's Ruby API
+]https://youtu.be/Xu5ewiPhCac
 
 The video gives an introduction to MQTT and builds a little distributed weather monitoring application using an Eclipse Mosquitto MQTT broker and the Paho Project's Ruby API.
 
