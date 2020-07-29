@@ -11,13 +11,10 @@ The only requirements for these examples are the Elipse Paho Ruby Gem and a free
 
 [Paho Ruby Gem](https://github.com/eclipse/paho.mqtt.ruby) (Gem installation instructions found on this page)
 
-[OpenWeather](https://openweathermap.org/)
+[OpenWeatherMap.org](https://openweathermap.org/) (Click the 'subscribe') button on their API page to gain access to the free tier and an API key. 
 
 
-
-https://github.com/eclipse/paho
-
-#Resources
+# Resources
 
 MQTT Homepage: 
        http://www.mqtt.org/
