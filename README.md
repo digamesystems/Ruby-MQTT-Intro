@@ -1,4 +1,4 @@
-#Ruby-MQTT-Intro
+# Ruby-MQTT-Intro
 
 The files in this project are support for a little introductory MQTT video found here: 
   https://youtu.be/Xu5ewiPhCac
@@ -9,9 +9,9 @@ The video gives an introduction to MQTT and builds a little distributed weather 
 
 The only requirements for these examples are the Elipse Paho Ruby Gem and a free tier acount on OpenWeatherMap.org 
 
-## [Paho Ruby Gem](https://github.com/eclipse/paho.mqtt.ruby)
+[Paho Ruby Gem](https://github.com/eclipse/paho.mqtt.ruby) (Gem installation instructions found on this page)
 
-## [OpenWeather](https://openweathermap.org/
+[OpenWeather](https://openweathermap.org/)
 
 
 
