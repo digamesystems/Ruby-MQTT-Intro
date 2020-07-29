@@ -9,7 +9,9 @@ The video gives an introduction to MQTT and builds a little distributed weather 
 
 # Installation
 
-The only requirements for these examples are the Elipse Paho Ruby Gem and a free tier acount on OpenWeatherMap.org 
+The only requirements for these examples are the Eclipse Mosquitto Broker, the Elipse Paho Ruby Gem and a free tier acount on OpenWeatherMap.org 
+
+[Elipse Mosquitto](https://mosquitto.org/)
 
 [Paho Ruby Gem](https://github.com/eclipse/paho.mqtt.ruby) (Gem installation instructions found on this page)
 
