@@ -6,7 +6,11 @@ require 'json'     # +++
 # New functions for current_weather
 def current_weather(city)
 
-    api_key = "b46bd6614df2b680b4c727547c86d47d"
+    f = File.open('api_key.txt') # A single line file containing your API Key
+                                 # -- You'll have to make your own.
+    api_key = f.read
+    f.close
+
     uri = URI("https://api.openweathermap.org/data/2.5/weather?q=#{city}&appid=#{api_key}")
 
     Net::HTTP.start(uri.host, uri.port,:use_ssl => uri.scheme == 'https') do |http|
