@@ -13,9 +13,9 @@ The only requirements for these examples are the Eclipse Mosquitto Broker, the E
 
 [Elipse Mosquitto](https://mosquitto.org/)
 
-[Paho Ruby Gem](https://github.com/eclipse/paho.mqtt.ruby) (Gem installation instructions found on this page)
+[Paho Ruby Gem](https://github.com/eclipse/paho.mqtt.ruby) -- Gem installation instructions found on this page
 
-[OpenWeatherMap.org](https://openweathermap.org/) (Click the 'subscribe') button on their API page to gain access to the free tier and an API key. 
+[OpenWeatherMap.org](https://openweathermap.org/) -- Click the 'subscribe' button on their API page to gain access to the free tier and an API key. 
 
 
 # Resources
