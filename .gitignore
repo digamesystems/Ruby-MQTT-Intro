@@ -3,7 +3,7 @@
 /doc/
 /pkg/
 /tmp/
-
+/certs/
 *.gem
 *.log
 api_key.txt
